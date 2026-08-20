@@ -34,7 +34,7 @@
       "bonus/sweeps"
     ],
     "model_key": "qwen35-0.8b",
-    "model_choice_reason": "chosen with LAB_MODEL",
+    "model_choice_reason": "7.6 GB RAM is under the 8.0 GB the default model wants",
     "model_label": "Qwen3.5 0.8B",
     "model_repo": "unsloth/Qwen3.5-0.8B-GGUF",
     "primary_model_file": "Qwen3.5-0.8B-Q4_K_M.gguf",
